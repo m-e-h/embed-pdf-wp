@@ -30,7 +30,7 @@ function pdfjs_handler($incomingfrompost) {
 
 function pdfjs_function($incomingfromhandler) {
   $siteURL = home_url();
-  $viewer_base_url= $siteURL."/wp-content/plugins/pdf-embed-wp/web/viewer.php";
+  $viewer_base_url= $siteURL."/wp-content/plugins/embed-pdf-wp/web/viewer.php";
   
   $file_name = $incomingfromhandler["url"];
   $viewer_height = $incomingfromhandler["viewer_height"];

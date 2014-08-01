@@ -2,8 +2,9 @@
 /*
 Plugin Name: PDF Embed
 Plugin URI: https://github.com/m-e-h/embed-pdf-wp
+GitHub Plugin URI: m-e-h/embed-pdf-wp
 Description: Embed PDFs with pdf.js and a shortcode
-Version: 1.2
+Version: 0.2.0
 Author: Marty Helmick
 Author URI: http://martyhelmick.com
 License: GPLv2
